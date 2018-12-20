@@ -64,6 +64,9 @@ gem 'carrierwave'
 
 gem 'faker'
 
+gem 'fog'
+gem 'figaro'
+
 #for our local server:
 
 
